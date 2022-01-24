@@ -1,4 +1,6 @@
-#Problem 10
+# Euler Problem 10
+# Solved January 2021
+
 # Using Sieve of Eratosthenes
 MAX_PRIME = 2000000
 A = [True]*(MAX_PRIME+1)
